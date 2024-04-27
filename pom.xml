@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.beauver.libs.minecraft</groupId>
-  <artifactId>ExtraConfigs</artifactId>
+  <artifactId>extraconfigs</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -19,7 +19,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Beauver Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/beauver/extraconfigs</url>
+            <url>https://maven.pkg.github.com/Beauver/ExtraConfigs</url>
         </repository>
     </distributionManagement>
 
