@@ -19,7 +19,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Beauver Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/Beauver/ExtraConfigs</url>
+            <url>https://maven.pkg.github.com/Beauver/MinecraftLibs</url>
         </repository>
     </distributionManagement>
 
