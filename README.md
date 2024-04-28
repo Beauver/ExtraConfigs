@@ -1,2 +1,3 @@
-# ExtraConfigs
- A small custom made library to easily handle multiple YML configuration files for Minecraft Paper
+# MinecraftLibs
+ The monorepo of all my personally used libraries, feel free to use them yourself!
+ Documentation may be absent for some but I will eventually write them
