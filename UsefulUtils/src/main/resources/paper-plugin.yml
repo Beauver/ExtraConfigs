@@ -1,0 +1,4 @@
+name: UsefulUtils
+version: '${project.version}'
+main: com.beauver.libs.minecraft.usefulutils.UsefulUtils
+api-version: '1.20'
